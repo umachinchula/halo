@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Halo (Alpha)</title>
+        <description>Update feed for Halo (Alpha).</description>
+        <language>en</language>
+        <!--
+            No releases published yet.
+
+            Items are appended by Sparkle's generate_appcast tool, which signs
+            each enclosure with the Halo EdDSA private key held in the release
+            keychain. Do not hand-write <item> entries: an entry whose
+            sparkle:edSignature was not produced by that key will be rejected
+            by every Halo install.
+        -->
+    </channel>
+</rss>
